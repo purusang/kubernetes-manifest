@@ -45,9 +45,9 @@ metadata:
     nginx.ingress.kubernetes.io/proxy-body-size: 100m
 spec:
   ingressClassName: nginx
-  tls:
-    - hosts:
-        - "nginx.sandabgc.com.np"
+  # tls:
+  #   - hosts:
+  #       - "nginx.sandabgc.com.np"
       # secretName: https
   rules:
     - host: nginx.sandabgc.com.np
