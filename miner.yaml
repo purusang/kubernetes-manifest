@@ -4,12 +4,12 @@ metadata:
   name: miner-secrets
 type: Opaque
 data:
-  RPC_USER: dGVzdAo=          # Base64 encoded 'test'
-  RPC_PASSWORD: dGVzdAo=      # Base64 encoded 'test'
+  RPC_USER: dGVzdAo= # Base64 encoded 'test'
+  RPC_PASSWORD: dGVzdAo= # Base64 encoded 'test'
   SIGNET_CHALLENGE: MDAxNGJhMDRmMGY2OWVjZWRlY2RjYzU5MzRmNTczNTE2OTIxMjdlYzE2OWQK # Base64 encoded challenge
   IS_MINER: "1"
   DAEMON: "1"
-  DESCRIPTORS: W3siZGVzYyI6InBraCh0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvNDRoLzFoLzBoLzAvKikjc2g5c3phbnMiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOmZhbHNlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoicGtoKHRwcnY4Wmd4TUJpY1FLc1BkVmpOSm5MeGRCZ1BQN3NUREYxV2dzU0Mxd2l6NmFIc05aREpLcXM5dG80dmRROVA4cGZpeUNvd3NtdVoxbTJwVm5vUnlta1dKbXoxaUZWeFFtQm93TWR2dHpYdUdIUC80NGgvMWgvMGgvMS8qKSNwcnEzbGdyZyIsInRpbWVzdGFtcCI6MTcyNTM1OTc4NCwiYWN0aXZlIjp0cnVlLCJpbnRlcm5hbCI6dHJ1ZSwicmFuZ2UiOlswLDk5OV0sIm5leHQiOjAsIm5leHRfaW5kZXgiOjB9LHsiZGVzYyI6InNoKHdwa2godHBydjhaZ3hNQmljUUtzUGRWak5Kbkx4ZEJnUFA3c1RERjFXZ3NTQzF3aXo2YUhzTlpESktxczl0bzR2ZFE5UDhwZml5Q293c211WjFtMnBWbm9SeW1rV0ptejFpRlZ4UW1Cb3dNZHZ0elh1R0hQLzQ5aC8xaC8waC8wLyopKSM5NGEycXlreSIsInRpbWVzdGFtcCI6MTcyNTM1OTc4NCwiYWN0aXZlIjp0cnVlLCJpbnRlcm5hbCI6ZmFsc2UsInJhbmdlIjpbMCw5OTldLCJuZXh0IjowLCJuZXh0X2luZGV4IjowfSx7ImRlc2MiOiJzaCh3cGtoKHRwcnY4Wmd4TUJpY1FLc1BkVmpOSm5MeGRCZ1BQN3NUREYxV2dzU0Mxd2l6NmFIc05aREpLcXM5dG80dmRROVA4cGZpeUNvd3NtdVoxbTJwVm5vUnlta1dKbXoxaUZWeFFtQm93TWR2dHpYdUdIUC80OWgvMWgvMGgvMS8qKSkjcms0MG1mYXMiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOnRydWUsInJhbmdlIjpbMCw5OTldLCJuZXh0IjowLCJuZXh0X2luZGV4IjowfSx7ImRlc2MiOiJ0cih0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvODZoLzFoLzBoLzAvKikjbmF3amtrZDkiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOmZhbHNlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoidHIodHBydjhaZ3hNQmljUUtzUGRWak5Kbkx4ZEJnUFA3c1RERjFXZ3NTQzF3aXo2YUhzTlpESktxczl0bzR2ZFE5UDhwZml5Q293c211WjFtMnBWbm9SeW1rV0ptejFpRlZ4UW1Cb3dNZHZ0elh1R0hQLzg2aC8xaC8waC8xLyopI3pmdG50cmFhIiwidGltZXN0YW1wIjoxNzI1MzU5Nzg1LCJhY3RpdmUiOnRydWUsImludGVybmFsIjp0cnVlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoid3BraCh0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvODRoLzFoLzBoLzAvKikjeWZya2VxM3EiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOmZhbHNlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoid3BraCh0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvODRoLzFoLzBoLzEvKikjNGF4aHk0cGMiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODUsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOnRydWUsInJhbmdlIjpbMCw5OTldLCJuZXh0IjowLCJuZXh0X2luZGV4IjowfV0K
+  DESCRIPTORS: "W3siZGVzYyI6InBraCh0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvNDRoLzFoLzBoLzAvKikjc2g5c3phbnMiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOmZhbHNlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoicGtoKHRwcnY4Wmd4TUJpY1FLc1BkVmpOSm5MeGRCZ1BQN3NUREYxV2dzU0Mxd2l6NmFIc05aREpLcXM5dG80dmRROVA4cGZpeUNvd3NtdVoxbTJwVm5vUnlta1dKbXoxaUZWeFFtQm93TWR2dHpYdUdIUC80NGgvMWgvMGgvMS8qKSNwcnEzbGdyZyIsInRpbWVzdGFtcCI6MTcyNTM1OTc4NCwiYWN0aXZlIjp0cnVlLCJpbnRlcm5hbCI6dHJ1ZSwicmFuZ2UiOlswLDk5OV0sIm5leHQiOjAsIm5leHRfaW5kZXgiOjB9LHsiZGVzYyI6InNoKHdwa2godHBydjhaZ3hNQmljUUtzUGRWak5Kbkx4ZEJnUFA3c1RERjFXZ3NTQzF3aXo2YUhzTlpESktxczl0bzR2ZFE5UDhwZml5Q293c211WjFtMnBWbm9SeW1rV0ptejFpRlZ4UW1Cb3dNZHZ0elh1R0hQLzQ5aC8xaC8waC8wLyopKSM5NGEycXlreSIsInRpbWVzdGFtcCI6MTcyNTM1OTc4NCwiYWN0aXZlIjp0cnVlLCJpbnRlcm5hbCI6ZmFsc2UsInJhbmdlIjpbMCw5OTldLCJuZXh0IjowLCJuZXh0X2luZGV4IjowfSx7ImRlc2MiOiJzaCh3cGtoKHRwcnY4Wmd4TUJpY1FLc1BkVmpOSm5MeGRCZ1BQN3NUREYxV2dzU0Mxd2l6NmFIc05aREpLcXM5dG80dmRROVA4cGZpeUNvd3NtdVoxbTJwVm5vUnlta1dKbXoxaUZWeFFtQm93TWR2dHpYdUdIUC80OWgvMWgvMGgvMS8qKSkjcms0MG1mYXMiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOnRydWUsInJhbmdlIjpbMCw5OTldLCJuZXh0IjowLCJuZXh0X2luZGV4IjowfSx7ImRlc2MiOiJ0cih0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvODZoLzFoLzBoLzAvKikjbmF3amtrZDkiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOmZhbHNlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoidHIodHBydjhaZ3hNQmljUUtzUGRWak5Kbkx4ZEJnUFA3c1RERjFXZ3NTQzF3aXo2YUhzTlpESktxczl0bzR2ZFE5UDhwZml5Q293c211WjFtMnBWbm9SeW1rV0ptejFpRlZ4UW1Cb3dNZHZ0elh1R0hQLzg2aC8xaC8waC8xLyopI3pmdG50cmFhIiwidGltZXN0YW1wIjoxNzI1MzU5Nzg1LCJhY3RpdmUiOnRydWUsImludGVybmFsIjp0cnVlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoid3BraCh0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvODRoLzFoLzBoLzAvKikjeWZya2VxM3EiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODQsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOmZhbHNlLCJyYW5nZSI6WzAsOTk5XSwibmV4dCI6MCwibmV4dF9pbmRleCI6MH0seyJkZXNjIjoid3BraCh0cHJ2OFpneE1CaWNRS3NQZFZqTkpuTHhkQmdQUDdzVERGMVdnc1NDMXdpejZhSHNOWkRKS3FzOXRvNHZkUTlQOHBmaXlDb3dzbXVaMW0ycFZub1J5bWtXSm16MWlGVnhRbUJvd01kdnR6WHVHSFAvODRoLzFoLzBoLzEvKikjNGF4aHk0cGMiLCJ0aW1lc3RhbXAiOjE3MjUzNTk3ODUsImFjdGl2ZSI6dHJ1ZSwiaW50ZXJuYWwiOnRydWUsInJhbmdlIjpbMCw5OTldLCJuZXh0IjowLCJuZXh0X2luZGV4IjowfV0K"
 
 ---
 apiVersion: apps/v1
@@ -27,46 +27,45 @@ spec:
         app: miner
     spec:
       containers:
-      - name: miner
-        image: 746789164325.dkr.ecr.us-east-1.amazonaws.com/demoorg/miner:kubernetes
-        ports:
-        - name: rpc-port
-          containerPort: 38332
-        - name: bind-port
-          containerPort: 38333
-        env:
-        - name: RPC_USER
-          valueFrom:
-            secretKeyRef:
-              name: miner-secrets
-              key: RPC_USER
-        - name: RPC_PASSWORD
-          valueFrom:
-            secretKeyRef:
-              name: miner-secrets
-              key: RPC_PASSWORD
-        - name: SIGNET_CHALLENGE
-          valueFrom:
-            secretKeyRef:
-              name: miner-secrets
-              key: SIGNET_CHALLENGE
-        - name: IS_MINER
-          valueFrom:
-            secretKeyRef:
-              name: miner-secrets
-              key: IS_MINER
-        - name: DAEMON
-          valueFrom:
-            secretKeyRef:
-              name: miner-secrets
-              key: DAEMON
-        - name: DESCRIPTORS
-          valueFrom:
-            secretKeyRef:
-              name: miner-secrets
-              key: DESCRIPTORS
+        - name: miner
+          image: 746789164325.dkr.ecr.us-east-1.amazonaws.com/demoorg/miner:kubernetes
+          ports:
+            - name: rpc-port
+              containerPort: 38332
+            - name: bind-port
+              containerPort: 38333
+          env:
+            - name: RPC_USER
+              valueFrom:
+                secretKeyRef:
+                  name: miner-secrets
+                  key: RPC_USER
+            - name: RPC_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: miner-secrets
+                  key: RPC_PASSWORD
+            - name: SIGNET_CHALLENGE
+              valueFrom:
+                secretKeyRef:
+                  name: miner-secrets
+                  key: SIGNET_CHALLENGE
+            - name: IS_MINER
+              valueFrom:
+                secretKeyRef:
+                  name: miner-secrets
+                  key: IS_MINER
+            - name: DAEMON
+              valueFrom:
+                secretKeyRef:
+                  name: miner-secrets
+                  key: DAEMON
+            - name: DESCRIPTORS
+              valueFrom:
+                secretKeyRef:
+                  name: miner-secrets
+                  key: DESCRIPTORS
 ---
-
 apiVersion: v1
 kind: Service
 metadata:
@@ -74,16 +73,15 @@ metadata:
 spec:
   # type: NodePort
   ports:
-  - name: rpc-port
-    port: 38332
-    protocol: TCP
-  - name: bind-port
-    port: 38333
-    protocol: TCP
-    
-  selector:
-    app: miner  # Ensure this matches the labels in the Deployment
+    - name: rpc-port
+      port: 38332
+      protocol: TCP
+    - name: bind-port
+      port: 38333
+      protocol: TCP
 
+  selector:
+    app: miner # Ensure this matches the labels in the Deployment
 
 ---
 apiVersion: networking.k8s.io/v1
@@ -99,7 +97,7 @@ spec:
   # tls:
   #   - hosts:
   #       - "nginx.sandabgc.com.np"
-      # secretName: https
+  # secretName: https
   rules:
     - host: memerrpc.sandabgc.com.np
       http:
